@@ -8,5 +8,8 @@
 	</authentication>
 ```
 ## 指定使用者通過驗證
+判斷使用者帳密後，使用下方Code將Token存入Cookie內
+```sh
 FormsAuthentication.RedirectFromLoginPage("帳號",是否建立永久Cookie)
+```
 FormsAuthentication類別使用時須引用System.Web.Security此命名空間。
