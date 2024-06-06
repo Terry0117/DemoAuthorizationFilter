@@ -1,9 +1,9 @@
 # DemoAuthorizationFilter
 
-## Ё]╘w╔╪Ёq╧L╠беv╝и╜n╟У╕Ф╙╨╟й╖@╓Х╙k
-	╕эWeb.Config╜в╖О║A╕b<system.web>╪пер╓╨╥s╪W╕p╓U╓ХCode
-	```sh
-		<authentication mode="Forms">
-		  <forms loginUrl="~/Demo/Login"/>
-		</authentication>
-	```
+## Х╗╜Е╝ Ф°╙И─ И│▌Ф▌┬Ф╛┼Ф≥┌Х╕│Е÷╥Х║▄Г └Е▀∙Д╫°Ф√╧ФЁ∙
+Х┤ЁWeb.ConfigД©╝Ф■╧О╪▄Е°╗<system.web>Ф╗≥Г╠╓Е┘╖Ф√╟Е╒·Е╕┌Д╦▀Ф√╧Code
+```sh
+	<authentication mode="Forms">
+	  <forms loginUrl="~/Demo/Login"/>
+	</authentication>
+```
